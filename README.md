@@ -131,7 +131,7 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
     
-<h2><span class="yellow">ウグイスのさえずり動画<br>画像クリックでさえずり動画再生します</span></h2>
+<h2><span class="yellow">ウグイスのさえずり動画<br>画像クリックでさえずり動画再生します(以下2枚)</span></h2>
 <a href="20250416_001.mov" target="_blank"><img src="20250416_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250416_002.mov" target="_blank"><img src="20250416_002.JPG" alt="サンプル画像" width="900" /></a>
     
